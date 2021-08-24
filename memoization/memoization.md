@@ -37,7 +37,7 @@ The Fibonacci sequence by adding memoization:
     Fib(4); // -> 5
 ```
 
-## Links
+## External Links
 [wikipedia](https://en.wikipedia.org/wiki/Memoization)<br/>
 [Memoization in JavaScript](https://keith.gaughan.ie/javascript-memoization.html)
 
