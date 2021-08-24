@@ -41,4 +41,7 @@ The Fibonacci sequence by adding memoization:
 [wikipedia](https://en.wikipedia.org/wiki/Memoization)<br/>
 [Memoization in JavaScript](https://keith.gaughan.ie/javascript-memoization.html)
 
+### Related Patterns
+##### `iife`, `closure`, `currying`, `higher-order function`
+
 [⬅️](https://github.com/Sinakhx/techniques-in-programming#readme)
