@@ -40,3 +40,5 @@ The Fibonacci sequence by adding memoization:
 ## Links
 [wikipedia](https://en.wikipedia.org/wiki/Memoization)<br/>
 [Memoization in JavaScript](https://keith.gaughan.ie/javascript-memoization.html)
+
+[⬅️](https://github.com/Sinakhx/techniques-in-programming#readme)
