@@ -5,7 +5,7 @@
 
 ## Example
 
-The Fibonacci sequence without memoization:
+The [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number) without memoization:
 
 ```js
     function Fib(n) {
