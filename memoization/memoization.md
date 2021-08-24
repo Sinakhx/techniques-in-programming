@@ -39,9 +39,9 @@ The Fibonacci sequence by adding memoization:
 
 ## External Links
 [wikipedia](https://en.wikipedia.org/wiki/Memoization)<br/>
-[Memoization in JavaScript](https://keith.gaughan.ie/javascript-memoization.html)
+[Memoization in JavaScript](https://keith.gaughan.ie/javascript-memoization.html)<br/>
 
 ### Related Patterns
-##### `iife`, `closure`, `currying`, `higher-order function`
+##### `iife`, `closure`, `HOF`
 
 [⬅️](https://github.com/Sinakhx/techniques-in-programming#readme)

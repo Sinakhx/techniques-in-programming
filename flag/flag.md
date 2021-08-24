@@ -45,7 +45,7 @@ if (hasEven(arr)){
 
 ## External Links
 [javascriptkit](http://www.javascriptkit.com/javatutors/valid2.shtml)<br/>
-[stackoverflow](https://stackoverflow.com/questions/17402125/what-is-a-flag-variable)
+[stackoverflow](https://stackoverflow.com/questions/17402125/what-is-a-flag-variable)<br/>
 [geeksforgeeks](https://www.geeksforgeeks.org/use-of-flag-in-programming/)
 
 ### Related Patterns
